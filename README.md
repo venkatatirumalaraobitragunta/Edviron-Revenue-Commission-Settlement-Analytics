@@ -178,8 +178,6 @@ Interactive slicers:
 
 Date Range
 
-Partner
-
 Gateway
 
 Payment Method
