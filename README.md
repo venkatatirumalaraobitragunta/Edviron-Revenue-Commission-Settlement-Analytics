@@ -1,4 +1,4 @@
-
+Explanation Video:https://drive.google.com/file/d/1Q1zXNSkJwMSIPodsCQdITUsrQ218Abfp/view?usp=drive_link
 EDVIRON – Revenue, Commission & Settlement Analytics
 
 Power BI Assignment – Explanation Note
